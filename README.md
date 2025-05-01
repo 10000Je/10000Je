@@ -4,11 +4,12 @@
 ## 기술 스택
 ### 언어
 <!--C-->
-<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/> |
-<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=C++&logoColor=white"/> |
+<p>
+<img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=C++&logoColor=white"/>
 <!--Java--> 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-
+</p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2058%20mins-blue)
