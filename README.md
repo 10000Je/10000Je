@@ -22,10 +22,8 @@
 </p>
 
 ## Stats
-<p>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10000Je&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10000Je&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10000Je&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10000Je&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2058%20mins-blue)
