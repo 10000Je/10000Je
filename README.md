@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=ffac49&height=250&animation=fadeIn&fontColor=f9a601&text=Hello%20World!&desc=10000Je%20Github&descAlignY=70)
 ## 기술 스택
 ### 언어
-<img src="https://img.shields.io/badge/C-#A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 
 <!--START_SECTION:waka-->
