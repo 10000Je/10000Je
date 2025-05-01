@@ -1,9 +1,9 @@
 <!--Header-->
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=ffac49&height=250&animation=fadeIn&fontColor=f9a601&text=Hello%20World!&desc=10000Je%20Github&descAlignY=70)
 
-## 기술 스택
+## Tech
 
-### 언어
+### Language
 <p>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -11,16 +11,18 @@
  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-### 프레임워크
+### FrameWork
 <p>
  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 </p>
 
-### 기타
+### Etc
 <p>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10000Je)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2058%20mins-blue)
