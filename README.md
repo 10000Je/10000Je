@@ -3,8 +3,6 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
@@ -63,7 +61,7 @@ C++                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/05/2025 02:47:13 UTC
+ Last Updated on 01/05/2025 02:48:35 UTC
 <!--END_SECTION:waka-->
 
 <!--
