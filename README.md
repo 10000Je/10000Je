@@ -2,12 +2,19 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=ffac49&height=250&animation=fadeIn&fontColor=f9a601&text=Hello%20World!&desc=10000Je%20Github&descAlignY=70)
 
 ## 기술 스택
+
 ### 언어
 <p>
+
+ <!--C-->
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+ <!--C++-->
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+ <!--Java-->
  <img src="https://img.shields.io/badge/Java-f05650?style=flat-square&logo=openjdk&logoColor=white"/>
+ <!--Python-->
  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=white"/>
+ 
 </p>
 
 ### 프레임워크
