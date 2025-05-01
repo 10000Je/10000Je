@@ -5,18 +5,6 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-**🐱 저의 GitHub 정보에요.** 
-
-> 📦 GitHub의 446 Bytes만큼의 저장소를 사용하고 있어요. 
- > 
-> 🏆 87 만큼의 Contributions을 2025년에 했어요
- > 
-> 🚫 구직중이지 않아요.
- > 
-> 📜 15개의 Public Repository를 만들었어요. 
- > 
-> 🔑 0개의 Private Repository를 만들었어요. 
- > 
 **저는 저녁형 인간이에요. 🦉** 
 
 ```text
@@ -75,7 +63,7 @@ C++                      1 repo              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 01/05/2025 02:43:25 UTC
+ Last Updated on 01/05/2025 02:47:13 UTC
 <!--END_SECTION:waka-->
 
 <!--
