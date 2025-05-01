@@ -4,10 +4,10 @@
 ## 기술 스택
 ### 언어
 <p>
- <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
- <img src="https://img.shields.io/badge/cplusplus-00599C?style=flat-square&logo=C++&logoColor=white"/>
- <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
- <img src="https://img.shields.io/badge/python-007396?style=flat-square&logo=Python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/c-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+ <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
 <!--START_SECTION:waka-->
