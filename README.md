@@ -13,7 +13,12 @@
 
 ### 프레임워크
 <p>
-  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
+</p>
+
+### 기타
+<p>
+ <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
 
