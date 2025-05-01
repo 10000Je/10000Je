@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=ffac49&height=250&animation=fadeIn&fontColor=f9a601&text=Hello%20World!&desc=10000Je%20Github&descAlignY=70)
+<div>
+ ![header](https://capsule-render.vercel.app/api?type=Blur&color=ffac49&height=250&animation=fadeIn&fontColor=f9a601&text=Hello%20World!&desc=10000Je%20Github&descAlignY=70)
+</div>
 ## 기술 스택
 ### 언어
 <!--C-->
