@@ -1,6 +1,6 @@
-## 📚Tech
+## 📚기술 스택
 
-### 📝Language
+### 📝언어
 <p>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
@@ -8,22 +8,20 @@
  <img src="https://img.shields.io/badge/Python-007396?style=flat-square&logo=python&logoColor=white"/>
 </p>
 
-### 🔧FrameWork
+### 🔧프레임워크
 <p>
  <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white"/>
 </p>
 
-### 📃Etc
+### 📃기타
 <p>
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-## 🖥️Stats
+## 🖥️스탯
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10000Je&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=10000Je&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🕥WakaTime Status
+## 🕥WakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2058%20mins-blue)
 
