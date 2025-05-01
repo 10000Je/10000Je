@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&fontAlign=80&text=Hello!)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=250&fontAlign=80&text=Hello!)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2058%20mins-blue)
 
