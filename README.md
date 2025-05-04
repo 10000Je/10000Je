@@ -18,9 +18,6 @@
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 </p>
 
-## 🖥️스탯
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=10000Je&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🕥WakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2020%20mins-blue)
