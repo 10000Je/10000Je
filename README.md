@@ -18,7 +18,7 @@
 
 ## 🕥WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-53%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2042%20mins-blue)
 
 📊 **저는 이번주를 이렇게 시간을 보냈어요.** 
 
@@ -46,5 +46,5 @@ Mac                      4 hrs 26 mins       ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 
- Last Updated on 17/05/2025 18:46:33 UTC
+ Last Updated on 18/05/2025 18:46:44 UTC
 <!--END_SECTION:waka-->
