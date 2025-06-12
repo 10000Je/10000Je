@@ -18,8 +18,4 @@
 
 ## 🕥WakaTime
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2056%20mins-blue)
-
-
- Last Updated on 11/06/2025 18:51:22 UTC
 <!--END_SECTION:waka-->
